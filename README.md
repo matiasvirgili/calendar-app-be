@@ -1,5 +1,3 @@
-# Backend MERN - Calendar
+# Backend Calendar App
 
-Backend que creamos en mi curso de React: de cero a experto
-
-fernando-herrera.com
+Backend de la aplicacion CalendarApp que pueden buscar en mi repositorio.
