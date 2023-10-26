@@ -8,7 +8,7 @@ const dbConnection = async () => {
       useCreateIndex: true,
     });
 
-    console.log("DB Online");
+    console.log("DB Online events");
   } catch (error) {
     console.log(error);
     throw new Error("Error a la hora de inicializar BD");
